@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Adam,</h1>
 <p align="center">
-  I am self-taught web developer from Poland. I put emphasis on the frontend development, but I also have backend-related knowledge.
+  I am self-taught web developer from Poland. I put emphasis on the frontend development, but I also have backend-related knowledge.<br/>
   I really like simple, and readable desings.
   Also I really like tinkering with my Neovim and Arch Linux config 😁
 </p>
