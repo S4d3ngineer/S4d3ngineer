@@ -1,5 +1,8 @@
 <h1>Hi there 👋, my name is Adam,</h1>
-<p align="left">I am self-taught web developer from Poland. I put emphasis on the frontend development, but I also have backend-related knowledge.</p>
+<p align="left">
+  I am self-taught web developer from Poland. I put emphasis on the frontend development, but I also have backend-related knowledge.
+  Also I really like tinkering with my Neovim and Arch Linux config 😁
+</p>
 <h3>I currently am:</h3>
 <ul>
 <li>🌱 working on <a href="https://github.com/S4d3ngineer/pixel-canvas-ts" target="blank">pixel drawing app</a></li>
