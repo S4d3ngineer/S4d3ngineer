@@ -1,11 +1,14 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Self-taught web developer from Poland</h3>
+<h1>Hi there 👋, my name is Adam,</h1>
+<p align="left">I am self-taught web developer from Poland. I put emphasis on the frontend development, but I also have backend-related knowledge.</p>
+<h3>I currently am:</h3>
+<ul>
+<li>🌱 working on <a href="https://github.com/S4d3ngineer/pixel-canvas-ts" target="blank">pixel drawing app</a></li>
+<li>🔭 looking for opensource to contribute to</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/a-arkuszynski/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-arkuszynski/?locale=en_us" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adam-arkuszynski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-arkuszynski/?locale=en_us" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Main languages and tools:</h3>
