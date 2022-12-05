@@ -8,7 +8,13 @@
 <br/>
 <h3>I currently am:</h3>
 <ul>
-<li>🌱 working on <a href="https://github.com/S4d3ngineer/pixel-canvas-ts" target="blank">pixel drawing app</a></li>
+<li>🌱 working on:
+  <ul>
+    <li>Doing this year's Advent of Code while learning Rust: <a href="https://github.com/S4d3ngineer/advent-of-code-2022" target="blank">link to my repo</a></li>
+    <li>Pixel drawing app: <a href="https://github.com/S4d3ngineer/pixel-canvas-ts" target="blank">link to my repo</a></li>
+    <li>Doing Josh Comeau's CSS for JavaScript Developers course <a href="https://css-for-js.dev/" target="blank">link to course</a></li>  
+  </ul>
+</li>
 <li>🔭 looking for opensource to contribute to</li>
 </ul>
 
