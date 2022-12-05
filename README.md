@@ -15,7 +15,7 @@
     <li>Doing Josh Comeau's CSS for JavaScript Developers course <a href="https://css-for-js.dev/" target="blank">link to course</a></li>  
   </ul>
 </li>
-<li>🔭 looking for opensource to contribute to</li>
+<li>🔭 looking for opensource project to contribute to</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
