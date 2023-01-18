@@ -12,7 +12,7 @@
   <ul>
     <strike><li>Doing this year's Advent of Code while learning Rust: <a href="https://github.com/S4d3ngineer/advent-of-code-2022" target="blank">link to my repo</a></li></strike>
     <strike><li>Pixel drawing app: <a href="https://github.com/S4d3ngineer/pixel-canvas-ts" target="blank">link to my repo</a></li></strike>
-    <li>e-commerce webstie</a></li>  
+    <li>e-commerce website</a></li>  
   </ul>
 </li>
   <strike><li>🔭 looking for opensource project to contribute to</li></strike>
