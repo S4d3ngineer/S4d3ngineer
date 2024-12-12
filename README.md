@@ -6,7 +6,6 @@
   Also I really like tinkering with my Neovim and Arch Linux config 😁
 </p>
 <br/>
-<h3>I currently am working on e-commerce website: <a href="https://remax-peak.pl/" target="_blank">link to the website</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
